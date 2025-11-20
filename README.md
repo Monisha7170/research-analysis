@@ -1,0 +1,1 @@
+esearch Navigator is an AI-based tool that helps users analyze research papers quickly by automating text processing and extracting key information. It includes features like semantic search, tokenization, summarization, named entity recognition (NER), and visual insights to make research understanding faster and easier.
